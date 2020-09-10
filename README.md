@@ -4,6 +4,10 @@
 #developer notes
 ##################################
 This project was from my archives dating back to Golang 1.2.2
+in 2012.
+
+This project has not been maintained and will need some care to build since the directory structures are likely missing some
+of their original relative path referencing.  (Go mod anyone?)
 
 A cloud vpn project to secure inter instance traffic for the internal network for PCI security compliance
 
